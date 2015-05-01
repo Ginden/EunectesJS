@@ -1,0 +1,24 @@
+{
+  "name": "eunectes-operator",
+  "version": "0.1.0",
+  "description": "operator module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ginden/EunectesJS"
+  },
+  "keywords": [
+    "eunectes",
+    "python",
+    "operator"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ginden/EunectesJS/issues"
+  },
+  "homepage": "https://github.com/Ginden/EunectesJS"
+}
